@@ -4,7 +4,7 @@ var nim = "Replace this with your own abstraction of Nim"
 
 content.innerHTML = renderGame(nim);
 
-
+//trying to figure out how to solve this , I didn't do much here 
 
 
 function renderGame(game) {
